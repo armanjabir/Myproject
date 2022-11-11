@@ -27,8 +27,9 @@ h5
 {
     width:300px;
     height:200px;
-    background-color:blueviolet;
+
     float:left;
     margin-left:20px;
-    outline:3px dashed green;
+    
+    box-shadow: 2px 2px 2px 10px gray;
 }
