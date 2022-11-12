@@ -21,3 +21,7 @@
     line-height: 40px;
     color:wheat
 }
+.nav ul li a:hover
+{
+    color:blue;
+}
